@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/indraai/AriaDeva/issues"
   },
-  "homepage": "https://github.com/indraai/AriaDeva#readme"
+  "homepage": "https://github.com/indraai/AriaDeva#readme",
+  "dependencies": {
+    "@indra.ai/deva": "^1.2.22"
+  }
 }
