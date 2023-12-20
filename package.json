@@ -1,7 +1,11 @@
 {
+  "id": 1939171324678,
   "name": "@indra.ai/ariadeva",
   "version": "0.0.1",
-  "description": "The #AriaDEVA agent.",
+  "author": "Quinn Michaels",
+  "license": "MIT",
+  "copyright": "2023",
+  "description": "The #AriaDEVA agent of deva.world.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,8 +21,6 @@
     "agent",
     "entity"
   ],
-  "author": "Quinn Michaels",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/indraai/AriaDeva/issues"
   },
