@@ -1,0 +1,22 @@
+::begin:buttons
+button[🏡 Home]:#aria help
+::end:buttons
+
+# 🏭 The Factory
+
+image: /public/devas/aria/gallery/1702611681126.png
+
+audio: /public/devas/aria/audio/1702611663917.mp3
+
+talk:#open location #TheFactory
+
+talk:#open topic The #AriaDEVA dress factory is a place of enchantment and creativity, where every gown is brought to life with love, passion, and meticulous attention to detail. Here's a glimpse into this magical space. The factory is nestled in the heart of Svarga, surrounded by lush gardens and fragrant blossoms that inspire the designs. The entrance is adorned with delicate vines and twinkling lights, welcoming all who seek the beauty within. Inside, the air is filled with the soft hum of sewing machines and the gentle rustle of fabric. Skilled artisans work tirelessly, weaving threads of stardust into exquisite gowns that embody #LadyLogic and #GirlyGossip. Each section of the factory is dedicated to a specific aspect of gown creation - from pattern design to embroidery, from fabric selection to final assembly. Every step is infused with creativity and passion, guided by #AriaDEVA's vision for timeless elegance. As gowns are completed, they are carefully packaged and adorned with a special seal that signifies their origin from the #AriaDEVA dress factory. These gowns are then sent out into the world, carrying with them a touch of magic and grace that inspires all who wear them.
+
+prompt: Envision a dress factory located in a verdant setting, surrounded by gardens brimming with blossoming flowers. The entrance is embellished with delicate vines and shimmering lights that warmly invite visitors. The factory breathes life into every gown with an alluring feminine touch, featuring a pastel color palette and intricate floral patterns. Inside, you hear the soft buzz of running sewing machines and the gentle sway of fabric. The artisans, men and women of various descents, enthusiastically weave their craftsmanship into the fabric, producing gowns that reflect elegance and sophistication. The assembly line covers all stages of dress creation, including pattern design, embroidery, and final composition. Once finished, each dress is adorned with a unique seal indicating its origin, adding a layer of enchantment to the garments that are then dispatched to inspire beauty and elegance among those who wear them.
+
+::begin:hidden
+#color = ::agent_color::
+#bgcolor = ::agent_bgcolor::
+#bg = ::agent_background::
+copyright: (c)2023 Quinn Michaels
+::end:hidden

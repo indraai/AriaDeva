@@ -34,5 +34,8 @@ const ARIA = new Deva({
   devas: {},
   func: {},
   methods: {},
+  onError(err) {
+    console.log('ARIA ERROR', err);
+  }
 });
 module.exports = ARIA
