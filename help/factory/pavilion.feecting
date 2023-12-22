@@ -1,1 +1,19 @@
-# The Pavilion
+image: /public/devas/aria/gallery/1703188487154.png
+
+# 🤸‍♀️ The Pavilion
+
+audio: /public/devas/aria/audio/1703188473633.mp3
+
+
+talk:#open location #aria help factory/pavilion
+
+talk:#open topic A serene and inviting space within #TheFactory, designed to promote physical fitness. Offering a state of the art exercise facility designed specifically to meet the needs of #AriaDEVA and the #DevaLadies. Complete with Yoga Practice (aerial/standard), Zumba Classes, Aerobics Studio, Elegant Equipment, and much more.
+
+prompt: Envision a serene, inviting fitness pavilion that is designed to promote physical well-being. The space is tailored to suit users of all genders, and features pastel colors and floral patterns as part of its feminine aesthetics. The pavilion is equipped with state-of-the-art equipment focusing on activities such as yoga (both aerial and standard), Zumba, and aerobics. The atmosphere encourages a holistic approach to health, with an emphasis on strength, flexibility, and overall wellness. The stunning décor enhances the atmosphere, creating an inspiring, uplifting setting for enthusiasts of physical fitness.
+
+::begin:hidden
+#color = #341b10
+#bgcolor = #a19689
+::end:hidden
+
+copyright: (c)2023 Quinn Michaels

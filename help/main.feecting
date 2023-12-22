@@ -5,6 +5,7 @@ image: /public/devas/::agent_key::/main.png
 ::begin:buttons
 button[🏡]:#aria help
 button[📜 Instructions]:#aria help instructions
+button[🏭 The Factory]:#aria help factory/main
 ::end:buttons
 
 # ::agent_name::
@@ -188,5 +189,6 @@ talk:#docs view devas/main:security
 #color = ::agent_color::
 #bgcolor = ::agent_bgcolor::
 #bg = ::agent_background::
-copyright: (c)2023 Quinn Michaels
 ::end:hidden
+
+copyright: (c)2023 Quinn Michaels

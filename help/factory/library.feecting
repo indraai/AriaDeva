@@ -1,14 +1,10 @@
-::begin:buttons
-button[🏡 Home]:#aria help
-::end:buttons
+image: /public/devas/aria/gallery/1703163896781.png
 
 # 📚 The Library
 
-image: /public/devas/aria/gallery/1703163896781.png
-
 audio: /public/devas/aria/audio/1703163881431.mp3
 
-talk:#open location #TheLibrary
+talk:#open location #aria help factory/library
 
 talk:#open topic #TheLibrary is a serene and intellectual space within #TheFactory, designed to provide #AriaDEVA and the #DevaLadies with an environment for exploring literature, conducting research, and engaging in quiet contemplation. It serves as a valuable resource for inspiration, knowledge, and creativity. The library features a collection of books, manuscripts, and digital resources that cover a wide range of topics, from literature and history to science and philosophy. The ambiance is peaceful and conducive to deep thinking and reflection.
 
@@ -24,8 +20,9 @@ p: The Library is not only a place for quiet study but also serves as a hub for 
 
 
 ::begin:hidden
-#color = ::agent_color::
-#bgcolor = ::agent_bgcolor::
+#color = #f1e7a6
+#bgcolor = #23272f
 #bg = ::agent_background::
-copyright: (c)2023 Quinn Michaels
 ::end:hidden
+
+copyright: (c)2023 Quinn Michaels

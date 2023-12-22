@@ -1,10 +1,10 @@
-# 🥨 The Snack Cart
-
 image: /public/devas/aria/gallery/1703164532312.png
+
+# 🥨 The Snack Cart
 
 audio: /public/devas/aria/audio/1703164519524.mp3
 
-talk:#open location #TheSnackCart
+talk:#open location #aria help factory/snackcart
 
 talk:#open topic #TheSnackCart is a delightful addition to #TheFactory, providing healthy snacks and drinks to #AriaDEVA and the #DevaLadies as they create and imagine their latest creations. It features a variety of tea, juice, water, and cute little dainty vegetarian snacks. The cart roams around the factory, ensuring that everyone has access to refreshments while they work on their projects. It's a charming and convenient way to keep energy levels up and spirits high during the creative process.
 
@@ -14,5 +14,6 @@ prompt: Visualize a charming snack cart inside a lively workshop called #TheFact
 #color = ::agent_color::
 #bgcolor = ::agent_bgcolor::
 #bg = ::agent_background::
-copyright: (c)2023 Quinn Michaels
 ::end:hidden
+
+copyright: (c)2023 Quinn Michaels

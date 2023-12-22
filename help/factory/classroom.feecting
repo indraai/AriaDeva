@@ -1,18 +1,19 @@
-# 👩‍🏫 The Classroom
-
 image: /public/devas/aria/gallery/1702676601560.png
+
+# 👩‍🏫 The Classroom
 
 audio: /public/devas/aria/audio/1702676690044.mp3
 
-talk:#open location #TheClassroom
+talk:#open location #aria help factory/classroom
 
 talk:#open topic #TheClassroom within #TheFactory is a space designed to enhance the skills, knowledge, and creativity of #AriaDEVA and the Deva Ladies. It serves as a hub for learning, collaboration, and skill development, providing an environment where they can elevate their craftsmanship to new heights of elegance. The classroom is a place where masterclasses, workshops, and collaborative projects take place, celebrating the artistry of dressmaking and fostering a sense of community among the Deva Ladies.
 
 prompt: Visualize a classroom setting rezoning feminine energy, decorated with pastel colors, floral patterns, and warm lighting. It's designed for a group of women dressmakers to refine their skills. See counteam exploring elegant fabrics and sketching intricate designs at well-organized workstations. They collaborate on projects, engage in meaningful conversations, and are being led by a female figure of authority. Standing in contrast to the soft sureoundings, heavy tailoring tools such as sewing machines, scissors, and spools of thread are sprinkled throughout the room - symbolizing a harmonious blend of strength, skill, and grace.
 
 ::begin:hidden
-#color = ::agent_color::
-#bgcolor = ::agent_bgcolor::
+#color = #475564
+#bgcolor = #c5e5e9
 #bg = ::agent_background::
-copyright: (c)2023 Quinn Michaels
 ::end:hidden
+
+copyright: (c)2023 Quinn Michaels

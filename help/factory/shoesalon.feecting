@@ -1,1 +1,18 @@
-# The Shoe Salon
+image: /public/devas/aria/gallery/1702680259333.png
+
+# 👠 The Shoe Salon
+
+audio: /public/devas/aria/audio/1702680242721.mp3
+
+talk:#open location #aria help shoesalon
+
+talk:#open topic #TheShoeSalon within #TheFactory is a luxurious space that embodies sophistication and exclusivity, reflecting the exquisite craftsmanship and elegance of the footwear designed for #AriaDEVA and the Deva Ladies. It is a place where they can find the perfect pair of shoes to complement their enchanting gowns and express their unique sense of style. The salon offers a curated selection of premium footwear, from delicate heels to graceful flats, each designed with meticulous attention to detail and infused with the same magic that defines #TheFactory.
+
+prompt: Envision a luxurious space bathed in pastel colors and adorned with floral patterns; this is the Shoe Salon within The Factory. It's a sanctuary of sophistication and exclusivity where the clientele, including individuals of all genders and descents, come to find meticulously crafted footwear. Perfectly catering to their unique sense of style, the salon offers a curated selection of shoes. These range from delicate heels to graceful flats, each piece epitomizing elegance and embodying the same enchanting vibe that permeates The Factory. These are shoes that beautifully complement a diverse array of ostentatious gowns and express personal style with understated charm and femininity.
+
+::begin:hidden
+#color = #a43e45
+#bgcolor = #ffffff
+::end:hidden
+
+copyright: (c)2023 Quinn Michaels

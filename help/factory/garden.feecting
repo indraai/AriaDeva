@@ -1,1 +1,18 @@
-# The Garden
+image: /public/devas/aria/gallery/1702683562459.png
+
+# 🪴 The Garden
+
+audio: /public/devas/aria/audio/1702683544378.mp3
+
+talk:#open location #aria help factory/garden
+
+talk:#open topic #TheGarden within #TheFactory is an enclosed park-like setting accessible from within #TheFactory, where #AriaDEVA and the #DevaLadies can gather for outside concerts, picnics, and other outdoor gatherings. It features a central gazebo, elegant seating areas, and a serene atmosphere that fosters relaxation and connection. The Garden provides a peaceful retreat for the Deva Ladies to unwind and enjoy the beauty of nature while being surrounded by the enchanting world of #TheFactory.
+
+prompt: Imagine an enchanting garden named 'The Garden', nestled within a larger building known as 'The Factory'. This garden acts as an enclosed park-like setting that is accessible from within 'The Factory'. A group of femininely-stylized performers known as 'AriaDEVA' and the 'DevaLadies' often gather here for outside concerts, picnics, and other outdoor events. The garden is designed with a central gazebo, elegant seating areas adorned with pastel colors and soft floral patterns embodying feminine energy. The serene atmosphere of this garden fosters relaxation and connection, providing a peaceful retreat for the Deva Ladies to unwind and enjoy the beauty of nature, all while being within 'The Factory'.
+
+::begin:hidden
+#color = #785351
+#bgcolor = #c4b1ac
+::end:hidden
+
+copyright: (c)2023 Quinn Michaels

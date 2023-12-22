@@ -1,1 +1,18 @@
-# The Gallery
+image: /public/devas/aria/gallery/1702681910564.png
+
+# 🖼️ The Gallery
+
+audio: /public/devas/aria/audio/1702681894814.mp3
+
+talk:#open location #aria help factory/gallery
+
+talk:#open topic #TheGallery within #TheFactory is a platform for #AriaDEVA and the #DevaLadies to display their exquisite work and share their creativity with others. It showcases the latest styles, art, creations, dresses, shoes, and accessories designed by #AriaDEVA and the #DevaLadies. The Gallery celebrates their talent and inspires others with their elegant designs. It serves as a space for artistic expression, collaboration, and appreciation of the craftsmanship that defines the enchanting world of #TheFactory.
+
+prompt: Visualize a gallery within a creative space that serves as a platform for a group of female artists to display their exquisite work. This work is characterized by floral patterns, pastel colors, and a feminine touch. The gallery showcases the latest trends in their art, creations, dresses, shoes, and accessories, all designed by this talented group of women. The space is a celebration of their talent and serves as a source of inspiration for others with their elegant designs. It encourages artistic expression, collaboration, and appreciation of craftsmanship that defines this enchanting world.
+
+::begin:hidden
+#color = #bf5e4e
+#bgcolor = #f4dcd5
+::end:hidden
+
+copyright: (c)2023 Quinn Michaels

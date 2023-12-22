@@ -1,1 +1,18 @@
-# The Emporium
+image: /public/devas/aria/gallery/1702682902228.png
+
+# 🛍️ The Emporium
+
+audio: /public/devas/aria/audio/1702682881326.mp3
+
+talk:#open location #aria help factory/emporium
+
+talk:#open topic #TheEmporium is an elegant and exclusive shopping destination within #TheFactory, offering a curated selection of personal items, supplies, fabrics, patterns, and more. It provides #AriaDEVA and the Deva Ladies with a one-stop shop for all their essential needs, from exquisite fabrics to delicate machine parts. The emporium is designed to cater to the unique requirements of the Deva Ladies, ensuring that they have access to everything they need for their creative endeavors.
+
+prompt: Envision an elegant and exclusive shopping destination named 'The Emporium', nested within a larger establishment referred to as 'The Place of Crafts'. This space offers a meticulously curated selection of personal items, supplies, fabrics, patterns, and more to cater to a unique group of creatives who require exceptional materials for their projects. Detailed elements include exquisite fabrics, delicate machine parts and a wide array of colourful floral patterns and pastel hues, all created in a feminine and inviting style. This shopping haven meets all the creatives' essential needs in one location, ensuring unhampered creative endeavors.
+
+::begin:hidden
+#color = #292821
+#bgcolor = #d2cbb9
+::end:hidden
+
+copyright: (c)2023 Quinn Michaels

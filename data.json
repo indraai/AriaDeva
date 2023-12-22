@@ -67,7 +67,7 @@
         "max_tokens": 50,
         "words": 25,
         "history": [],
-        "max_chats": 5,
+        "max_chats": 10,
         "page_token": ""
       },
       "ask": {
